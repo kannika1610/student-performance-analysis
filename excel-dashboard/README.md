@@ -33,9 +33,6 @@ This project uses Excel to analyze student performance based on study habits, sl
 - Sleep vs Performance analysis  
 - Filters for better insights  
 
-### 🖼️ Preview  
-[Excel Dashboard](dashboard_excel.png)
-
 ### 🔍 Insight  
 Students with better study habits and sleep tend to perform better.
 
